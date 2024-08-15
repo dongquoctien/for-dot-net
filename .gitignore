@@ -7,3 +7,17 @@
 /Example/Example.Web/obj
 /Example/.vs/Example/config/applicationhost.config
 /Example/.vs/Example
+Example/Example.Web/bin/Debug/netcoreapp8/appsettings.Development.json
+Example/Example.Web/bin/Debug/netcoreapp8/appsettings.json
+Example/Example.Web/bin/Debug/netcoreapp8/Example.WebAPI
+Example/Example.Web/bin/Debug/netcoreapp8/Example.WebAPI.deps.json
+Example/Example.Web/bin/Debug/netcoreapp8/Example.WebAPI.dll
+Example/Example.Web/bin/Debug/netcoreapp8/Example.WebAPI.pdb
+Example/Example.Web/bin/Debug/netcoreapp8/Example.WebAPI.runtimeconfig.json
+Example/Example.Web/bin/Debug/netcoreapp8/Example.WebAPI.xml
+Example/Example.Web/bin/Debug/netcoreapp8/Microsoft.EntityFrameworkCore.Abstractions.dll
+Example/Example.Web/bin/Debug/netcoreapp8/Microsoft.EntityFrameworkCore.dll
+Example/Example.Web/bin/Debug/netcoreapp8/Microsoft.OpenApi.dll
+Example/Example.Web/bin/Debug/netcoreapp8/Swashbuckle.AspNetCore.Swagger.dll
+Example/Example.Web/bin/Debug/netcoreapp8/Swashbuckle.AspNetCore.SwaggerGen.dll
+Example/Example.Web/bin/Debug/netcoreapp8/Swashbuckle.AspNetCore.SwaggerUI.dll
